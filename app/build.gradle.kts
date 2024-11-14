@@ -49,6 +49,6 @@ dependencies {
     implementation(platform("com.google.firebase:firebase-bom:33.5.1"))
     implementation("com.google.firebase:firebase-analytics")
     implementation("com.google.firebase:firebase-auth:21.0.3")
-    implementation ("com.github.warrenstrange:google-authenticator:1.0.1")
+    implementation ("com.github.EreaBlakaj:2FAdemo:Tag")
     apply(plugin="com.google.gms.google-services")
 }
