@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21037683626",
+    "project_id": "fademo-b44c6",
+    "storage_bucket": "fademo-b44c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21037683626:android:f257f48a71023d8109d1d3",
+        "android_client_info": {
+          "package_name": "com.example.a2fademo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-t02wqhDx7nOP_LS4avcp9L8LYld5dXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
